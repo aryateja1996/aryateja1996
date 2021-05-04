@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning MCA 
 - 📫 How to reach me sreekar@cyclotech.in
 - 📞 Call me at +91-9963028580
-- 
-
 <!---
 aryateja1996/aryateja1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
