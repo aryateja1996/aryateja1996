@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sreekar
-- 👀 I’m interested in Freelancing, Learning, Chatting
-- 🌱 I’m currently learning MCA 
 - 📫 How to reach me sreekar@cyclotech.in
 - 📞 Call me at +91-8688553578
 <!---
